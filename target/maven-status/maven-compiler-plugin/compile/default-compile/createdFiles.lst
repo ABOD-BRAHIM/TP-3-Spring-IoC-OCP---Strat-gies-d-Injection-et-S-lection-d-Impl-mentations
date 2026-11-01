@@ -1,0 +1,9 @@
+com\example\metier\IMetier.class
+com\example\dao\IDao.class
+com\example\dao\DaoImpl2.class
+com\example\config\AppConfig.class
+com\example\App.class
+com\example\metier\MetierImpl.class
+com\example\dao\DaoImpl.class
+com\example\dao\DaoApi.class
+com\example\dao\DaoFile.class

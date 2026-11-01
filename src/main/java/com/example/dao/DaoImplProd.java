@@ -1,0 +1,14 @@
+package com.example.dao;
+
+import org.springframework.context.annotation.Profile;
+import org.springframework.stereotype.Component;
+
+@Component("daoProd")
+@Profile("prod")
+public class DaoImplProd implements IDao {
+
+    @Override
+    public double getValu() {
+        return 100.0;
+    }
+}
